@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16254369463",
+    "project_id": "together-for-you-d3ed5",
+    "storage_bucket": "together-for-you-d3ed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16254369463:android:bea79260443feddfa29732",
+        "android_client_info": {
+          "package_name": "com.example.together_for_you"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6cdglyVtYEyNMWoktjPZ8xiDo5yVUvQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
